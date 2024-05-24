@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/springbootreact-mobile-front-end/static/css/main.aff19cc2.chunk.css",
+    "main.js": "/springbootreact-mobile-front-end/static/js/main.69e15d5e.chunk.js",
+    "main.js.map": "/springbootreact-mobile-front-end/static/js/main.69e15d5e.chunk.js.map",
+    "runtime~main.js": "/springbootreact-mobile-front-end/static/js/runtime~main.49feac1a.js",
+    "runtime~main.js.map": "/springbootreact-mobile-front-end/static/js/runtime~main.49feac1a.js.map",
+    "static/css/2.7f1403ef.chunk.css": "/springbootreact-mobile-front-end/static/css/2.7f1403ef.chunk.css",
+    "static/js/2.cab21774.chunk.js": "/springbootreact-mobile-front-end/static/js/2.cab21774.chunk.js",
+    "static/js/2.cab21774.chunk.js.map": "/springbootreact-mobile-front-end/static/js/2.cab21774.chunk.js.map",
+    "index.html": "/springbootreact-mobile-front-end/index.html",
+    "precache-manifest.26e0618279eec91bb1a713e6da11a80a.js": "/springbootreact-mobile-front-end/precache-manifest.26e0618279eec91bb1a713e6da11a80a.js",
+    "service-worker.js": "/springbootreact-mobile-front-end/service-worker.js",
+    "static/css/2.7f1403ef.chunk.css.map": "/springbootreact-mobile-front-end/static/css/2.7f1403ef.chunk.css.map",
+    "static/css/main.aff19cc2.chunk.css.map": "/springbootreact-mobile-front-end/static/css/main.aff19cc2.chunk.css.map",
+    "static/media/logo.svg": "/springbootreact-mobile-front-end/static/media/logo.5d5d9eef.svg"
+  }
+}
